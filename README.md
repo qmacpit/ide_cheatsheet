@@ -17,3 +17,9 @@ _Intellij(Win):_ **Ctrl+Y**
 _Visual Studio Code(Win):_ **Alt+&darr;**
 
 _Intellij(Win):_ **Ctrl+Shift+&darr;**
+
+### Search & Open File
+_Visual Studio Code(Win):_ **Ctrl+P**
+
+_Intellij(Win):_ **Alt+Shift+N**
+
