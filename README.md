@@ -12,3 +12,8 @@ _Intellij(Win):_ **Ctrl+D**
 _Visual Studio Code(Win):_ **Shift+Ctrl+K**
 
 _Intellij(Win):_ **Ctrl+Y**
+
+### Move Line (down)
+_Visual Studio Code(Win):_ **Alt+&darr;**
+
+_Intellij(Win):_ **Ctrl+Shift+&darr;**
