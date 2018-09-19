@@ -7,3 +7,8 @@ _Visual Studio Code:_ **Ctrl+K Ctrl+0**
 _Visual Studio Code(Win):_ **Shift+Alt+&darr;**
 
 _Intellij(Win):_ **Ctrl+D**
+
+### Delete Line
+_Visual Studio Code(Win):_ **Shift+Ctrl+K**
+
+_Intellij(Win):_ **Ctrl+Y**
